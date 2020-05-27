@@ -31,6 +31,83 @@ body {
     color: rgb(169, 78, 255);
 }
 
+.clock .numbe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transform: rotate(var(--rotation));
+    font-size: 1.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(169, 78, 255);
+}
+
+.clock .numbe0 { --rotation: 0deg; }
+.clock .numbe1 { --rotation: 6deg; }
+.clock .numbe2 { --rotation: 12deg; }
+.clock .numbe3 { --rotation: 18deg; }
+.clock .numbe4 { --rotation: 24deg; }
+.clock .numbe5 { --rotation: 30deg; }
+.clock .numbe6 { --rotation: 36deg; }
+.clock .numbe7 { --rotation: 42deg; }
+.clock .numbe8 { --rotation: 48deg; }
+.clock .numbe9 { --rotation: 54deg; }
+.clock .numbe10 { --rotation: 60deg; }
+.clock .numbe11 { --rotation: 66deg; }
+.clock .numbe12 { --rotation: 72deg; }
+.clock .numbe13 { --rotation: 78deg; }
+.clock .numbe14 { --rotation: 84deg; }
+.clock .numbe15 { --rotation: 90deg; }
+.clock .numbe16 { --rotation: 96deg; }
+.clock .numbe17 { --rotation: 102deg; }
+.clock .numbe18 { --rotation: 108deg; }
+.clock .numbe19 { --rotation: 114deg; }
+.clock .numbe20 { --rotation: 120deg; }
+.clock .numbe21 { --rotation: 126deg; }
+.clock .numbe22 { --rotation: 132deg; }
+.clock .numbe23 { --rotation: 138deg; }
+.clock .numbe24 { --rotation: 144deg; }
+.clock .numbe25 { --rotation: 150deg; }
+.clock .numbe26 { --rotation: 156deg; }
+.clock .numbe27 { --rotation: 162deg; }
+.clock .numbe28 { --rotation: 168deg; }
+.clock .numbe29 { --rotation: 174deg; }
+.clock .numbe30 { --rotation: 180deg; }
+.clock .numbe31 { --rotation: 186deg; }
+.clock .numbe32 { --rotation: 192deg; }
+.clock .numbe33 { --rotation: 198deg; }
+.clock .numbe34 { --rotation: 204deg; }
+.clock .numbe35 { --rotation: 210deg; }
+.clock .numbe36 { --rotation: 216deg; }
+.clock .numbe37 { --rotation: 222deg; }
+.clock .numbe38 { --rotation: 228deg; }
+.clock .numbe39 { --rotation: 234deg; }
+.clock .numbe40 { --rotation: 240deg; }
+.clock .numbe41 { --rotation: 246deg; }
+.clock .numbe42 { --rotation: 252deg; }
+.clock .numbe43 { --rotation: 258deg; }
+.clock .numbe44 { --rotation: 264deg; }
+.clock .numbe45 { --rotation: 270deg; }
+.clock .numbe46 { --rotation: 276deg; }
+.clock .numbe47 { --rotation: 284deg; }
+.clock .numbe48 { --rotation: 290deg; }
+.clock .numbe49 { --rotation: 296deg; }
+.clock .numbe50 { --rotation: 302deg; }
+.clock .numbe51 { --rotation: 308deg; }
+.clock .numbe52 { --rotation: 314deg; }
+.clock .numbe53 { --rotation: 320deg; }
+.clock .numbe54 { --rotation: 326deg; }
+.clock .numbe55 { --rotation: 332deg; }
+.clock .numbe56 { --rotation: 338deg; }
+.clock .numbe57 { --rotation: 346deg; }
+.clock .numbe58 { --rotation: 350deg; }
+.clock .numbe59 { --rotation: 354deg; }
+
+
+
+
+
+
 .clock .number11 { --rotation: 30deg; }
 .clock .number10 { --rotation: 60deg; }
 .clock .number9 { --rotation: 90deg; }
